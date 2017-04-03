@@ -1,27 +1,27 @@
 # C++ drafts and examples
 ### Contents:
-##### Circular buffer with tests http://ideone.com/Rg9oJg
-##### Quick sort http://ideone.com/DKgvCl
-##### Binary Search Tree http://ideone.com/flnyQD
-##### Forward list and reversing http://ideone.com/ReXj0i
-#
-##### SFINAE http://ideone.com/ER71cf
-##### Compile time power and template argument in range checker http://ideone.com/n2QzYO
-##### Extract type of expression http://ideone.com/vzdGI5
-##### Compile time algorithm to find max value of numbers http://ideone.com/39F2BT
-#
-##### [Own signals](http://ideone.com/rEmp8r)
-##### Multiply duration and binary shift duration test in threads http://ideone.com/M7Gexw
-##### string to int conversion with tests http://ideone.com/z6r7fh
-##### gcc __attribute((__packed__)) extension http://ideone.com/2014Fd
-##### std::chrono - elapsed time example http://ideone.com/c1LAtS
-##### std::functional lamdas in constructor as concept http://ideone.com/J5VYN6
-##### .bmp (.ppm) image generator http://ideone.com/eyiMgV (cancer code style!)
-#
-### Classic algorithms
-### Circular buffer with tests http://ideone.com/Rg9oJg
+##### [Circular buffer with tests](http://ideone.com/Rg9oJg)
+##### [Quick sort](http://ideone.com/DKgvCl)
+##### [Binary Search Tree](http://ideone.com/flnyQD)
+##### [Forward list and reversing](http://ideone.com/ReXj0i)
 
-```
+##### [SFINAE](http://ideone.com/ER71cf)
+##### [Compile time power and template argument in range checker](http://ideone.com/n2QzYO)
+##### [Extract type of expression](http://ideone.com/vzdGI5)
+##### [Compile time algorithm to find max value of numbers](http://ideone.com/39F2BT)
+
+##### [Own signals](http://ideone.com/rEmp8r)
+##### [Multiply duration and binary shift duration test in threads](http://ideone.com/M7Gexw)
+##### [string to int conversion with tests](http://ideone.com/z6r7fh)
+##### [gcc __attribute((__packed__)) extension](http://ideone.com/2014Fd)
+##### [std::chrono - elapsed time example](http://ideone.com/c1LAtS)
+##### [std::functional lamdas in constructor as concept](http://ideone.com/J5VYN6)
+##### [.bmp (.ppm) image generator](http://ideone.com/eyiMgV) (cancer code style!)
+
+### Classic algorithms
+### [Circular buffer with tests](http://ideone.com/Rg9oJg)
+
+```cpp
 #include <iostream>
 #include <array>
 
@@ -153,8 +153,8 @@ int main() {
 	return 0;
 }
 ```
-### Quick sort http://ideone.com/DKgvCl
-```
+### [Quick sort](http://ideone.com/DKgvCl)
+```cpp
 #include <iostream>
 
 void quickSort(int arr[], int left, int right) {
@@ -189,9 +189,8 @@ int main() {
 	return 0;
 }
 ```
-### Binary Search Tree http://ideone.com/flnyQD
-
-```
+### [Binary Search Tree](http://ideone.com/flnyQD)
+```cpp
 #include <iostream>
 
 template<typename T>
@@ -273,8 +272,8 @@ int main() {
 	return 0;
 }
 ```
-### Forward list and reversing http://ideone.com/ReXj0i
-```
+### [Forward list and reversing](http://ideone.com/ReXj0i)
+```cpp
 #include <iostream>
 
 template<typename T>
@@ -360,8 +359,8 @@ int main() {
 }
 ```
 ## Template magic
-### SFINAE http://ideone.com/ER71cf
-```
+### [SFINAE](http://ideone.com/ER71cf)
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -389,8 +388,8 @@ int main() {
 	return 0;
 }
 ```
-### Compile time power and template argument in range checker http://ideone.com/n2QzYO
-```
+### [Compile time power and template argument in range checker](http://ideone.com/n2QzYO)
+```cpp
 #include <iostream>
 
 template <int n, int p>
@@ -432,8 +431,8 @@ int main() {
 	return 0;
 }
 ```
-### Extract type of expression http://ideone.com/vzdGI5
-```
+### [Extract type of expression](http://ideone.com/vzdGI5)
+```cpp
 #include <iostream>
 #include <typeinfo>
 
@@ -462,8 +461,8 @@ int main() {
 	return 0;
 }
 ```
-### Compile time algorithm to find max value of numbers http://ideone.com/39F2BT
-```
+### [Compile time algorithm to find max value of numbers](http://ideone.com/39F2BT)
+```cpp
 #include <iostream>
 
 template <typename T>
@@ -485,8 +484,8 @@ int main() {
 ```
 
 ## Other
-### Own signals http://ideone.com/rEmp8r
-```
+### [Own signals](http://ideone.com/rEmp8r)
+```cpp
 #include <iostream>
 #include <vector>
 #include <list>
@@ -550,8 +549,8 @@ int main() {
 	return 0;
 }
 ```
-### Multiply duration and binary shift duration test in threads http://ideone.com/M7Gexw
-```
+### [Multiply duration and binary shift duration test in threads](http://ideone.com/M7Gexw)
+```cpp
 #include <iostream>
 #include <chrono>
 #include <functional>
@@ -628,8 +627,8 @@ int main() {
 }
 ```
 
-### string to int conversion with tests http://ideone.com/z6r7fh
-```
+### [string to int conversion with tests](http://ideone.com/z6r7fh)
+```cpp
 #include <iostream>
 #include <string>
 #include <list>
@@ -706,8 +705,8 @@ int main() {
 }
 ```
 
-### gcc __attribute((__packed__)) extension http://ideone.com/2014Fd
-```
+### [gcc __attribute((__packed__)) extension](http://ideone.com/2014Fd)
+```cpp
 #include <iostream>
 
 struct __attribute__((__packed__)) Node {
@@ -730,8 +729,8 @@ int main() {
 	return 0;
 }
 ```
-### std::chrono - elapsed time example http://ideone.com/c1LAtS
-```
+### [std::chrono - elapsed time example](http://ideone.com/c1LAtS)
+```cpp
 #include <iostream>
 #include <vector>
 #include <chrono>
@@ -752,8 +751,8 @@ int main() {
 	cout << "Elapsed time is :  " << chrono::duration_cast<ns>(diff).count() << " ns " << endl;
 }
 ```
-### std::functional lamdas in constructor as concept http://ideone.com/J5VYN6
-```
+### [std::functional lamdas in constructor as concept](http://ideone.com/J5VYN6)
+```cpp
 #include <iostream>
 #include <functional>
 using namespace std;
@@ -800,8 +799,8 @@ int main() {
 
 ```
 
-### .bmp (.ppm) image generator http://ideone.com/eyiMgV ! BAD-CODE STYLE
-```
+### [.bmp (.ppm) image generator](http://ideone.com/eyiMgV) ! BAD-CODE STYLE
+```cpp
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
