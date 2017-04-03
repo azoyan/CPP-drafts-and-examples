@@ -2,13 +2,12 @@
 
 
 ## [Classic algorithms](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#classic-algorithms-1)
-
-
 ### [Circular buffer with tests](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#circular-buffer-with-tests-1)
 ### [Quick sort](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#quick-sort-run-in-ideonecom)
 ### [Binary Search Tree](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#binary-search-tree-run-in-ideonecom)
-### [Forward list and reversing](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#forward-list-and-reversing-run-in-ideonecom)  
-  
+### [Forward list and reversing](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#forward-list-and-reversing-run-in-ideonecom)
+
+
 ## [Template magic](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#template-magic-1)
 
 
@@ -16,6 +15,7 @@
 ### [Compile time power and template argument in range checker](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#compile-time-power-and-template-argument-in-range-checker-run-in-ideonecom)
 ### [Extract type of expression](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#extract-type-of-expression-run-in-ideonecom)
 ### [Compile time algorithm to find max value of numbers](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#compile-time-algorithm-to-find-max-value-of-numbers-run-in-ideonecom)
+
 
 ## [Other](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#other-run-in-ideonecom)
 
