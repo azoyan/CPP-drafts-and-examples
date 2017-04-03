@@ -1,7 +1,7 @@
 # C++ drafts and examples
 
 
-## Classic algorithms
+## [Classic algorithms](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#classic-algorithms-1)
 
 
 ### [Circular buffer with tests](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#circular-buffer-with-tests-1)
