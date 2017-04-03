@@ -5,27 +5,27 @@
 
 
 ### [Circular buffer with tests](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#circular-buffer-with-tests-1)
-### [Quick sort](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#quick-sort-1)
-### [Binary Search Tree](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#binary-search-tree-1)
-### [Forward list and reversing](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#forward-list-and-reversing-1)  
+### [Quick sort](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#quick-sort-run-in-ideonecom)
+### [Binary Search Tree](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#binary-search-tree-run-in-ideonecom)
+### [Forward list and reversing](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#forward-list-and-reversing-run-in-ideonecom)  
   
 ## [Template magic](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#template-magic-1)
 
 
-### [SFINAE](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#sfinae-1)
-### [Compile time power and template argument in range checker](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#compile-time-power-and-template-argument-in-range-checker-1)
-### [Extract type of expression](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#extract-type-of-expression-1)
-### [Compile time algorithm to find max value of numbers](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#compile-time-algorithm-to-find-max-value-of-numbers-1)
+### [SFINAE](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#sfinae-run-in-ideonecom)
+### [Compile time power and template argument in range checker](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#compile-time-power-and-template-argument-in-range-checker-run-in-ideonecom)
+### [Extract type of expression](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#extract-type-of-expression-run-in-ideonecom)
+### [Compile time algorithm to find max value of numbers](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#compile-time-algorithm-to-find-max-value-of-numbers-run-in-ideonecom)
 
-## [Other](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#other-1)
+## [Other](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#other-run-in-ideonecom)
 
 
-### [Own signals](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#own-signals-1)
-### [Multiply duration and binary shift duration test in threads](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#multiply-duration-and-binary-shift-duration-test-in-threads-1)
-### [string to int conversion with tests](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#string-to-int-conversion-with-tests-1)
-### [gcc __attribute((__packed__)) extension](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#gcc-__attributepacked-extension-1)
-### [std::chrono - elapsed time example](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#stdchrono---elapsed-time-example-1)
-### [std::functional lamdas in constructor as concept](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#stdfunctional-lamdas-in-constructor-as-concept-1)
+### [Own signals](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#own-signals-run-in-ideonecom)
+### [Multiply duration and binary shift duration test in threads](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#multiply-duration-and-binary-shift-duration-test-in-threads-run-in-ideonecom)
+### [string to int conversion with tests](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#string-to-int-conversion-with-tests-run-in-ideonecom)
+### [gcc __attribute((__packed__)) extension](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#gcc-__attributepacked-extension-run-in-ideonecom)
+### [std::chrono - elapsed time example](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#stdchrono---elapsed-time-example-run-in-ideonecom)
+### [std::functional lamdas in constructor as concept](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#stdfunctional-lamdas-in-constructor-as-concept-run-in-ideonecom)
 ### [.bmp (.ppm) image generator](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#bmp-ppm-image-generator--bad-code-style) (cancer code style!)
 
 
