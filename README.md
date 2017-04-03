@@ -1,24 +1,35 @@
 # C++ drafts and examples
-### Contents:
-##### [Circular buffer with tests](http://ideone.com/Rg9oJg)
-##### [Quick sort](http://ideone.com/DKgvCl)
-##### [Binary Search Tree](http://ideone.com/flnyQD)
-##### [Forward list and reversing](http://ideone.com/ReXj0i)
 
-##### [SFINAE](http://ideone.com/ER71cf)
-##### [Compile time power and template argument in range checker](http://ideone.com/n2QzYO)
-##### [Extract type of expression](http://ideone.com/vzdGI5)
-##### [Compile time algorithm to find max value of numbers](http://ideone.com/39F2BT)
 
-##### [Own signals](http://ideone.com/rEmp8r)
-##### [Multiply duration and binary shift duration test in threads](http://ideone.com/M7Gexw)
-##### [string to int conversion with tests](http://ideone.com/z6r7fh)
-##### [gcc __attribute((__packed__)) extension](http://ideone.com/2014Fd)
-##### [std::chrono - elapsed time example](http://ideone.com/c1LAtS)
-##### [std::functional lamdas in constructor as concept](http://ideone.com/J5VYN6)
-##### [.bmp (.ppm) image generator](http://ideone.com/eyiMgV) (cancer code style!)
+## Classic algorithms
 
-### Classic algorithms
+
+### [Circular buffer with tests](http://ideone.com/Rg9oJg)
+### [Quick sort](http://ideone.com/DKgvCl)
+### [Binary Search Tree](http://ideone.com/flnyQD)
+### [Forward list and reversing](http://ideone.com/ReXj0i)  
+  
+## Template magic  
+
+
+### [SFINAE](http://ideone.com/ER71cf)
+### [Compile time power and template argument in range checker](http://ideone.com/n2QzYO)
+### [Extract type of expression](http://ideone.com/vzdGI5)
+### [Compile time algorithm to find max value of numbers](http://ideone.com/39F2BT)
+
+## Other
+
+
+### [Own signals](http://ideone.com/rEmp8r)
+### [Multiply duration and binary shift duration test in threads](http://ideone.com/M7Gexw)
+### [string to int conversion with tests](http://ideone.com/z6r7fh)
+### [gcc __attribute((__packed__)) extension](http://ideone.com/2014Fd)
+### [std::chrono - elapsed time example](http://ideone.com/c1LAtS)
+### [std::functional lamdas in constructor as concept](http://ideone.com/J5VYN6)
+### [.bmp (.ppm) image generator](http://ideone.com/eyiMgV) (cancer code style!)
+
+
+## Classic algorithms
 ### [Circular buffer with tests](http://ideone.com/Rg9oJg)
 
 ```cpp
