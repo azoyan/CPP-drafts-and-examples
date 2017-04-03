@@ -9,7 +9,7 @@
 ### [Binary Search Tree](http://ideone.com/flnyQD)
 ### [Forward list and reversing](http://ideone.com/ReXj0i)  
   
-## Template magic  
+## Template magic]  
 
 
 ### [SFINAE](http://ideone.com/ER71cf)
@@ -17,7 +17,7 @@
 ### [Extract type of expression](http://ideone.com/vzdGI5)
 ### [Compile time algorithm to find max value of numbers](http://ideone.com/39F2BT)
 
-## Other
+## [Other](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#other)
 
 
 ### [Own signals](http://ideone.com/rEmp8r)
