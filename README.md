@@ -9,7 +9,7 @@
 ### [Binary Search Tree](http://ideone.com/flnyQD)
 ### [Forward list and reversing](http://ideone.com/ReXj0i)  
   
-## Template magic]  
+## [Template magic](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#template-magic-1)
 
 
 ### [SFINAE](http://ideone.com/ER71cf)
