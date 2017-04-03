@@ -26,7 +26,7 @@
 ### [gcc __attribute((__packed__)) extension](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#gcc-__attributepacked-extension-run-in-ideonecom)
 ### [std::chrono - elapsed time example](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#stdchrono---elapsed-time-example-run-in-ideonecom)
 ### [std::functional lamdas in constructor as concept](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#stdfunctional-lamdas-in-constructor-as-concept-run-in-ideonecom)
-### [.bmp (.ppm) image generator](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#bmp-ppm-image-generator--bad-code-style) (cancer code style!)
+### [.bmp (.ppm) image generator](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#bmp-ppm-image-generator-run-in-ideonecom--bad-code-style) (cancer code style!)
 
 
 ## Classic algorithms
