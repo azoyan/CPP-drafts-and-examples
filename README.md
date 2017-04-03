@@ -17,12 +17,12 @@
 ### [Extract type of expression](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#extract-type-of-expression-1)
 ### [Compile time algorithm to find max value of numbers](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#compile-time-algorithm-to-find-max-value-of-numbers-1)
 
-## [Other](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#other)
+## [Other](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#other-1)
 
 
 ### [Own signals](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#own-signals-1)
 ### [Multiply duration and binary shift duration test in threads](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#multiply-duration-and-binary-shift-duration-test-in-threads-1)
-### [string to int conversion with tests]https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#string-to-int-conversion-with-tests-1)
+### [string to int conversion with tests](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#string-to-int-conversion-with-tests-1)
 ### [gcc __attribute((__packed__)) extension](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#gcc-__attributepacked-extension-1)
 ### [std::chrono - elapsed time example](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#stdchrono---elapsed-time-example-1)
 ### [std::functional lamdas in constructor as concept](https://github.com/azoyan/CPP-drafts-and-examples/blob/master/README.md#stdfunctional-lamdas-in-constructor-as-concept-1)
